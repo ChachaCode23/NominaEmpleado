@@ -10,9 +10,9 @@ import Nomina.*;
  * ConsolaApp
  * -----------
  * Esta clase es la "interfaz" por consola de la aplicacion de nomina.
- * Aquí NO se hace el cálculo (eso ya lo hacen las subclases de Empleado).
+ * Aqui NO se hace el cálculo (eso ya lo hacen las subclases de Empleado).
  * 
- * Lo que hace:
+ * aqui se hacemos:
  * - Mantiene una "BD" en memoria con un Map<Integer, Empleado>.
  * - Muestra un menu simple (listar, agregar, editar, eliminar, reporte).
  * - Usa Scanner para leer datos del usuario.
